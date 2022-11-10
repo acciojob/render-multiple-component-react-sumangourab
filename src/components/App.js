@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div id="main">
       <>
-      <p data-ns-test>project-name</p>
-      <p data-ns-test>project-description</p>
+      <p data-ns-test = 'project-name'>b</p>
+      <p data-ns-test = 'project-description'>a</p>
       </>
     </div>
   )
